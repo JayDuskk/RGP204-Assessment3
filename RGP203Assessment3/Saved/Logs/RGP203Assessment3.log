@@ -14581,3 +14581,187 @@ Script Stack (0 frames) :
 [2024.07.10-04.42.56:456][700]LogSlate: Window 'Editor Preferences' being destroyed
 [2024.07.10-04.42.56:489][700]LogAutomationController: Ignoring very large delta of 9.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.07.10-04.42.59:836][877]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:Weapon) has a null class, falling back to UObject
+[2024.07.10-04.43.12:406][422]LogSlate: Window 'Message' being destroyed
+[2024.07.10-04.43.12:419][422]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2024.07.10-04.43.13:742][422]LogSlate: Window 'Message' being destroyed
+[2024.07.10-04.43.13:749][422]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2024.07.10-04.43.16:154][422]LogSlate: Window 'Message' being destroyed
+[2024.07.10-04.43.16:161][422]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into revision control this would affect other developers.
+[2024.07.10-04.43.16:175][423]LogAutomationController: Ignoring very large delta of 4.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.10-04.43.18:075][537]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.07.10-04.43.18:082][537]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.07.10-04.43.19:573][603]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.10-04.43.19:768][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.07.10-04.43.20:219][615]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.43.22:333][719]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.10-04.43.22:509][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.07.10-04.43.22:545][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.10-04.43.22:678][719]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.10-04.43.22:679][719]LogSavePackage: Moving '../../../../../../Development/Games/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter7C4FCA4945C4CC5702D6B3BA62D4F3FF.tmp' to '../../../../../../Development/Games/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.10-04.43.22:687][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2:40 min)
+[2024.07.10-04.43.22:754][719]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.10-04.43.22:754][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.10-04.43.23:028][727]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.23:028][727]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.23:029][727]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.23:170][734]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.43.24:287][776]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.25:856][787]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.43.37:931][848]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.43.37:951][849]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.38:518][856]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.38:896][877]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.57:852][639]LogViewport: Scene viewport resized to 1114x723, mode Windowed.
+[2024.07.10-04.43.58:268][651]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.58:268][651]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.58:268][651]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.58:526][665]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.43.58:830][672]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.00:573][732]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.01:286][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.10-04.44.01:298][772]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.10-04.44.01:299][772]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.10-04.44.01:308][772]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8 ms
+[2024.07.10-04.44.01:313][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.10-04.44.01:320][772]PIE: New page: PIE session: FirstPersonMap (11 Jul 2024, 12:44:01 am)
+[2024.07.10-04.44.01:384][772]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.07.10-04.44.01:386][772]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.07.10-04.44.01:388][772]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.10-04.44.01:406][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017502s)
+[2024.07.10-04.44.01:406][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.017799s)
+[2024.07.10-04.44.01:436][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2024.07.10-04.44.01:457][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.10-04.44.01:460][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.10-04.44.01:463][772]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.10-04.44.01:471][772]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.10-04.44.01:471][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.10-04.44.01:471][772]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.10-04.44.01:472][772]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.10-04.44.01:473][772]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.10-04.44.01:477][772]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 79 ms)
+[2024.07.10-04.44.01:477][772]LogPlayLevel: PIE: World Init took: (0.023175s)
+[2024.07.10-04.44.01:479][772]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.10-04.44.01:481][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.10-04.44.01:481][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.10-04.44.01:484][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.10-04.44.01:484][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.10-04.44.01:484][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.10-04.44.01:489][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.10-04.44.01:522][772]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.07.10-04.44.01:526][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.10-04.44.01:526][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.10-04.44.01:528][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.10-04.44.01:534][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.07.10-04.44.01:534][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.07.10-04.44.01:537][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.07.10-04.44.01:537][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.07.10-04.44.01:537][772]LogInit: FAudioDevice initialized with ID 2.
+[2024.07.10-04.44.01:537][772]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.07.10-04.44.01:538][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.10-04.44.01:586][772]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.10-04.44.01:593][772]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.07.10-14.44.01
+[2024.07.10-04.44.01:595][772]LogWorld: Bringing up level for play took: 0.008134
+[2024.07.10-04.44.01:602][772]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.07.10-04.44.01:676][772]PIE: Server logged in
+[2024.07.10-04.44.01:678][772]PIE: Play in editor total start time 0.382 seconds.
+[2024.07.10-04.44.03:710][784]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.44.03:773][786]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.04:101][805]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.04:226][812]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.10:645][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.10-04.44.10:646][189]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.10-04.44.10:651][189]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.10:654][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.10:655][189]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.10-04.44.10:696][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.10-04.44.10:720][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.10:755][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.10-04.44.10:757][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.10-04.44.10:760][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.10-04.44.10:770][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.10-04.44.10:814][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.07.10-04.44.10:879][190]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.07.10-04.44.11:296][213]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.44.12:155][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.44.12:613][272]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.10-04.44.16:807][501]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.10-04.44.18:851][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.07.10-04.44.18:860][613]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.07.10-04.44.18:861][613]Cmd: MAP LOAD FILE="../../../../../../Development/Games/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.10-04.44.18:862][613]LightingResults: New page: Lighting Build
+[2024.07.10-04.44.18:863][613]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.07.10-04.44.18:886][613]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.18:888][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.18:892][613]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.10-04.44.18:893][613]MapCheck: New page: Map Check
+[2024.07.10-04.44.18:893][613]LightingResults: New page: Lighting Build
+[2024.07.10-04.44.18:945][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.10-04.44.18:997][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2024.07.10-04.44.19:024][613]LogWorld: UWorld::CleanupWorld for MagicalExplosionsDemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:025][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:025][613]LogWorld: UWorld::CleanupWorld for MagicAuraVFXDemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:026][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:027][613]LogWorld: UWorld::CleanupWorld for MagicShieldsVFXDemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:028][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:030][613]LogWorld: UWorld::CleanupWorld for M_StylizedForestLandscape_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:033][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:035][613]LogWorld: UWorld::CleanupWorld for M_LowPoly2_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:036][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:040][613]LogWorld: UWorld::CleanupWorld for M_Global_Overview, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:042][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:044][613]LogWorld: UWorld::CleanupWorld for M_5_Bioms_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:052][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:067][613]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:068][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:069][613]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:069][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:071][613]LogWorld: UWorld::CleanupWorld for Demo02MP, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:072][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:073][613]LogWorld: UWorld::CleanupWorld for Demo01MP, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-04.44.19:073][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-04.44.19:515][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.07.10-04.44.19:549][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.07.10-04.44.19:567][613]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.07.10-04.44.19:567][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.10-04.44.19:567][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.10-04.44.19:568][613]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.10-04.44.19:573][613]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.07.10-04.44.19:573][613]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.10-04.44.19:573][613]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.10-04.44.19:643][613]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.10-04.44.19:643][613]LogWorldPartition: Display: WorldPartition initialize took 70 ms (total: 150 ms)
+[2024.07.10-04.44.19:715][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.10-04.44.19:765][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.07.10-04.44.19:771][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.10-04.44.19:772][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.565ms to complete.
+[2024.07.10-04.44.29:831][193]LogViewport: Scene viewport resized to 960x700, mode Windowed.
+[2024.07.10-04.44.29:851][194]LogViewport: Scene viewport resized to 957x700, mode Windowed.
+[2024.07.10-04.44.29:899][195]LogViewport: Scene viewport resized to 945x700, mode Windowed.
+[2024.07.10-04.44.29:927][196]LogViewport: Scene viewport resized to 936x700, mode Windowed.
+[2024.07.10-04.44.29:955][197]LogViewport: Scene viewport resized to 928x700, mode Windowed.
+[2024.07.10-04.44.29:984][198]LogViewport: Scene viewport resized to 920x700, mode Windowed.
+[2024.07.10-04.44.30:015][199]LogViewport: Scene viewport resized to 912x700, mode Windowed.
+[2024.07.10-04.44.30:043][200]LogViewport: Scene viewport resized to 906x700, mode Windowed.
+[2024.07.10-04.44.30:071][201]LogViewport: Scene viewport resized to 901x700, mode Windowed.
+[2024.07.10-04.44.30:105][202]LogViewport: Scene viewport resized to 897x700, mode Windowed.
+[2024.07.10-04.44.30:136][203]LogViewport: Scene viewport resized to 896x700, mode Windowed.
+[2024.07.10-04.44.30:166][204]LogViewport: Scene viewport resized to 893x700, mode Windowed.
+[2024.07.10-04.44.30:201][205]LogViewport: Scene viewport resized to 887x700, mode Windowed.
+[2024.07.10-04.44.30:228][206]LogViewport: Scene viewport resized to 881x700, mode Windowed.
+[2024.07.10-04.44.30:257][207]LogViewport: Scene viewport resized to 875x700, mode Windowed.
+[2024.07.10-04.44.30:287][208]LogViewport: Scene viewport resized to 869x700, mode Windowed.
+[2024.07.10-04.44.30:322][209]LogViewport: Scene viewport resized to 860x700, mode Windowed.
+[2024.07.10-04.44.30:348][210]LogViewport: Scene viewport resized to 852x700, mode Windowed.
+[2024.07.10-04.44.30:380][211]LogViewport: Scene viewport resized to 846x700, mode Windowed.
+[2024.07.10-04.44.30:409][212]LogViewport: Scene viewport resized to 844x700, mode Windowed.
+[2024.07.10-04.44.30:475][215]LogViewport: Scene viewport resized to 843x700, mode Windowed.
+[2024.07.10-04.44.30:496][216]LogViewport: Scene viewport resized to 842x700, mode Windowed.
+[2024.07.10-04.44.30:521][217]LogViewport: Scene viewport resized to 840x700, mode Windowed.
