@@ -1403,3 +1403,53 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.11-23.52.10:125][545]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2024.07.11-23.52.11:356][617]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.07.11-23.54.35:854][333]LogDerivedDataCache: C:/Users/JayAn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.465 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27623 files in 29433 folders with total size 1429 MiB.
+[2024.07.12-00.14.42:694][954]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.07.12-00.14.42:960][954]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.14.43:294][955]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{54ae0482-1170-4eda-9723-d37a0d914f5e}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.21
+[2024.07.12-00.14.43:295][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.14.43:296][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.10:552][ 37]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.10:609][ 37]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.10:629][ 37]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.10:964][ 38]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6cb8ef5d-5a14-4512-9526-1fb9f447136d}, Name=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.74
+[2024.07.12-00.15.10:964][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.15.10:966][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.11:974][ 41]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.11:983][ 41]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.11:992][ 41]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.12:005][ 41]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.12:008][ 41]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.12:048][ 41]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.12:297][ 42]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ddff3489-afee-418a-86fc-68e3b8dfe16e}, Name=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.86
+[2024.07.12-00.15.12:297][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.15.12:298][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.12:378][ 43]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.12:628][ 43]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.12:964][ 44]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{fd0e5590-55b3-483b-b8ff-241d4ad376ed}, Name=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.15
+[2024.07.12-00.15.12:964][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.07.12-00.15.12:965][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.27:947][ 89]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.07.12-00.15.27:963][ 89]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.28:298][ 90]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{54ae0482-1170-4eda-9723-d37a0d914f5e}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.50
+[2024.07.12-00.15.28:298][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.15.28:300][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.52:904][164]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.52:952][164]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.52:967][164]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.53:302][165]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6cb8ef5d-5a14-4512-9526-1fb9f447136d}, Name=SteelSeries Sonar - Stream (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.24
+[2024.07.12-00.15.53:302][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.15.53:305][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.54:243][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.54:261][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.54:287][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.54:298][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.54:298][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.54:369][168]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.54:702][169]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ddff3489-afee-418a-86fc-68e3b8dfe16e}, Name=SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.64
+[2024.07.12-00.15.54:702][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.12-00.15.54:704][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.12-00.15.54:986][170]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.07.12-00.15.55:034][170]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22700
+[2024.07.12-00.15.55:368][171]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{fd0e5590-55b3-483b-b8ff-241d4ad376ed}, Name=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.65
+[2024.07.12-00.15.55:369][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.07.12-00.15.55:370][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
