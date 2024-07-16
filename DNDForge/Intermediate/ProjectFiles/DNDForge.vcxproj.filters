@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DNDForge.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DNDForge.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DNDForgeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DNDForge">
+      <UniqueIdentifier>{1C1B9648-7EBF-3B51-969F-B5D9CE07215B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DNDForge\DNDForge.Build.cs">
+      <Filter>Source\DNDForge</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DNDForge\DNDForge.cpp">
+      <Filter>Source\DNDForge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DNDForge\DNDForge.h">
+      <Filter>Source\DNDForge</Filter>
+    </ClInclude>
+    <Filter Include="Source\DNDForge\Private">
+      <UniqueIdentifier>{0AF26706-FF26-306C-8955-22E7213EEB66}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DNDForge\Private\DNDForge_BlueprintFunctionLib.cpp">
+      <Filter>Source\DNDForge\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DNDForge\Public">
+      <UniqueIdentifier>{0F90930B-A4C4-346D-8B71-3A133ECD66CD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DNDForge\Public\DNDForge_BlueprintFunctionLib.h">
+      <Filter>Source\DNDForge\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

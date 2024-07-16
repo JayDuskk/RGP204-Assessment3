@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DNDForge.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\DNDForgeEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\DNDForge.init.gen.cpp.obj"
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\DNDForge_BlueprintFunctionLib.gen.cpp.obj"
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\DNDForge.cpp.obj"
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\DNDForge_BlueprintFunctionLib.cpp.obj"
+"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\Default.rc2.res"
+/OUT:"C:\Development\Games\RGP204-Assessment3\DNDForge\Intermediate\Build\Win64\x64\UnrealEditor\Development\DNDForge\UnrealEditor-DNDForge.lib"
