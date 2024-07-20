@@ -3324,3 +3324,163 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.20-01.56.38:234][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2024.07.20-01.56.38:244][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2024.07.20-01.56.38:252][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.93 sec)
+[2024.07.20-01.58.36:969][652]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.20-02.00.08:763][299]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-02.00.08:917][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.07.20-02.00.08:943][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.00.09:074][299]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.00.09:074][299]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter25EEF83D44688F5332DA90ABD55F5CC8.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.00.09:081][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.06 sec)
+[2024.07.20-02.00.09:083][299]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.00.09:083][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.00.10:090][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.00.10:167][404]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.00.10:167][404]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterBB0C17954C0FC0311F8233B9A7709C28.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.00.10:173][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.15 sec)
+[2024.07.20-02.00.10:174][404]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.00.10:174][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.00.28:764][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemySystem/BP_Enemy_AI.BP_Enemy_AI
+[2024.07.20-02.00.28:764][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.00.28:764][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: ================================================
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Total job queries 325, among them cache hits 155 (47.69%)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 134 distinct outputs (78.82%)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: RAM used: 4.11 MiB of 1.55 GiB budget. Usage: 0.26%
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Average time worker was idle: 0.19 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.73 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.82
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Shader code size: average 32.657 KiB, min 29.648 KiB, max 35.125 KiB
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.03 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Average processing rate: 7.74 jobs/sec
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Total thread time: 1.893 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Total thread preprocess time: 1.065 s
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Percentage time preprocessing: 56.26%
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.44 sec, min 0.15 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.24 sec, max 0.35 sec, min 0.13 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.24 sec, max 0.35 sec, min 0.13 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.17 sec, max 0.28 sec, min 0.06 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.00% of total time (compiled    2 times, average 0.29 sec, max 0.44 sec, min 0.15 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.61% of total time (compiled    2 times, average 0.24 sec, max 0.35 sec, min 0.13 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.42% of total time (compiled    2 times, average 0.24 sec, max 0.35 sec, min 0.13 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.97% of total time (compiled    2 times, average 0.17 sec, max 0.28 sec, min 0.06 sec)
+[2024.07.20-02.00.28:927][500]LogShaderCompilers: Display: ================================================
+[2024.07.20-02.00.29:032][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.00.56:872][834]LogViewport: Scene viewport resized to 834x685, mode Windowed.
+[2024.07.20-02.03.21:388][864]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.07.20-02.04.49:768][ 30]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-02.04.49:885][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.20-02.04.49:925][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.04.50:063][ 30]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.04.50:064][ 30]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterE1BD909043B851DCF08FCBB24C30F88B.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.04.50:070][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 3.29 sec)
+[2024.07.20-02.04.50:073][ 30]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.04.50:073][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.04.50:625][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.04.50:705][ 74]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.04.50:706][ 74]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter9A41C95547D56D30C7F9D484CE6CDE0E.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.04.50:712][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.38 sec)
+[2024.07.20-02.04.50:715][ 74]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.04.50:715][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.06.50:618][951]BlueprintLog: New page: Compile BP_Enemy_AI
+[2024.07.20-02.06.50:621][951]LogBlueprint: Warning: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\BP_Enemy_AI.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Primitive Component' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2024.07.20-02.06.50:658][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.07.20-02.06.59:292][910]BlueprintLog: New page: Compile BP_Enemy_AI
+[2024.07.20-02.06.59:328][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.06.59:350][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.06.59:417][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.06.59:502][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemySystem/BP_Enemy_AI" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/BP_Enemy_AI.uasset" SILENT=true
+[2024.07.20-02.06.59:510][910]LogSavePackage: Moving output files for package: /Game/EnemySystem/BP_Enemy_AI
+[2024.07.20-02.06.59:510][910]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_Enemy_AI2E897998419E59A39C0E65B44D8D83D4.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/BP_Enemy_AI.uasset'
+[2024.07.20-02.06.59:518][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 3.55 sec)
+[2024.07.20-02.06.59:520][910]AssetCheck: New page: Asset Save: BP_Enemy_AI
+[2024.07.20-02.06.59:520][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemySystem/BP_Enemy_AI.BP_Enemy_AI
+[2024.07.20-02.07.01:565][114]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.07.01:572][114]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.07.01:572][114]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.07.01:574][114]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 43 ms)
+[2024.07.20-02.07.01:575][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.20-02.07.01:577][114]LogPlayLevel: [PlayLevel] Compiling Health before play...
+[2024.07.20-02.07.01:650][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.07.01:705][114]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-02.07.01:705][114]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health3DAF19AE4BC611C96F0407877A626E8B.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-02.07.01:712][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.61 sec)
+[2024.07.20-02.07.01:725][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.20-02.07.01:732][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2024.07.20-02.07.01:732][114]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:07:01 pm)
+[2024.07.20-02.07.01:732][114]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.07.01:768][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035462s)
+[2024.07.20-02.07.01:768][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.035490s)
+[2024.07.20-02.07.01:778][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.20-02.07.01:779][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.07.01:779][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.07.01:780][114]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.07.01:780][114]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.07.01:780][114]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.07.01:780][114]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.07.01:780][114]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.07.01:788][114]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.07.01:788][114]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.34 sec)
+[2024.07.20-02.07.01:788][114]LogPlayLevel: PIE: World Init took: (0.008855s)
+[2024.07.20-02.07.01:788][114]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.07.01:788][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.07.01:788][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.07.01:788][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.07.01:788][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.07.01:788][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.07.01:790][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.07.01:806][114]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.07.01:806][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.07.01:806][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.07.01:807][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.07.01:808][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.07.20-02.07.01:808][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.07.20-02.07.01:809][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.07.20-02.07.01:809][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.07.20-02.07.01:809][114]LogInit: FAudioDevice initialized with ID 15.
+[2024.07.20-02.07.01:809][114]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.07.20-02.07.01:809][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.07.20-02.07.01:864][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.07.01:864][114]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.07.01:884][114]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.07.01
+[2024.07.20-02.07.01:961][114]LogWorld: Bringing up level for play took: 0.096328
+[2024.07.20-02.07.01:962][114]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.07.20-02.07.01:968][114]PIE: Server logged in
+[2024.07.20-02.07.01:969][114]PIE: Play in editor total start time 0.397 seconds.
+[2024.07.20-02.07.01:990][114]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.07.02:000][115]AssetCheck: New page: Asset Save: Health
+[2024.07.20-02.07.02:000][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-02.07.02:018][115]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.076733 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_AI_C_UAID_88A4C25E52D6A50902_1455940040', movement 'Walking'
+[2024.07.20-02.07.25:230][751]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-18.29 Y=4.04 Z=0.00 Location: X=-2728.72 Y=-2323.64 Z=200.49 Normal: X=-0.85 Y=0.53 Z=-0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_UAID_88A4C25E52D6A50902_1455940040 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2024.07.20-02.07.26:799][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.07.26:799][931]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.07.26:799][931]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.07.26:806][931]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.07.26:809][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.07.26:809][931]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.07.26:812][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.07.26:816][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.07.26:829][931]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.07.20-02.07.26:829][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.07.20-02.07.26:831][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.07.20-02.07.26:842][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.07.20-02.07.26:895][932]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.07.20-02.07.28:712][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.07.28:778][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.07.20-02.07.28:793][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.20-02.07.28:803][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.20-02.07.28:813][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.71 sec)
