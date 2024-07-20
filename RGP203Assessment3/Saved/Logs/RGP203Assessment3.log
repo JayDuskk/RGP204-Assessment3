@@ -3484,3 +3484,1402 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.20-02.07.28:793][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2024.07.20-02.07.28:803][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2024.07.20-02.07.28:813][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.71 sec)
+[2024.07.20-02.07.54:380][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.20-02.07.54:382][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.07.20-02.07.54:382][641]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.07.20-02.07.54:452][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.07.20-02.07.54:452][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.07.20-02.07.54:475][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2024.07.20-02.07.54:475][641]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter_Auto41A229DB742E33ADBEF923D83896C24B6.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2024.07.20-02.07.54:475][641]LogFileHelpers: Auto-saving content packages took 0.094
+[2024.07.20-02.09.35:768][ 30]BlueprintLog: New page: Compile BP_Enemy_AI
+[2024.07.20-02.09.35:803][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.20-02.09.37:277][175]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-02.09.37:394][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.20-02.09.37:436][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.09.37:544][175]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.09.37:545][175]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterEB05C10F4BA69C75915F32ACDE14F29C.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.09.37:552][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 3.83 sec)
+[2024.07.20-02.09.37:553][175]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.09.37:553][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.10.03:340][950]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim
+[2024.07.20-02.10.03:340][950]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim
+[2024.07.20-02.10.03:352][950]LogAnimationCompression: Display: Storing compressed animation data for /Game/AssetPacks/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim, at AnimationSequence/d8a4b4277692afc3b0dd6a01930f171db47114c8
+[2024.07.20-02.10.03:370][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.03:370][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.03:418][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.10.03:598][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.03:598][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.03:734][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.03:766][950]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.07.20-02.10.03:771][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.03:771][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.03:797][950]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2024.07.20-02.10.03:818][950]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.10.03:917][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.10:299][661]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.10:299][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.10.10:310][661]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.10:310][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.10.10:362][661]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.10:362][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.10.16:359][268]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2024.07.20-02.10.16:359][268]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2024.07.20-02.10.16:359][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.16:359][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.16:365][268]LogAnimationCompression: Display: Storing compressed animation data for /Game/AssetPacks/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim, at AnimationSequence/c9e638cd172d9c8c8fe152c0159a7eb844a6f2df
+[2024.07.20-02.10.16:365][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.10.16:501][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.16:501][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.16:641][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.10.16:641][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.10.16:652][268]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2024.07.20-02.10.16:665][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.10.22:156][871]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.22:156][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.10.22:165][871]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.22:165][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.10.22:210][871]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.10.22:210][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.11.01:396][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.05:859][ 99]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.07.20-02.11.05:868][ 99]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.07.20-02.11.05:875][ 99]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.07.20-02.11.05:891][100]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.07.20-02.11.10:248][588]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> EnemyAnimation
+[2024.07.20-02.11.10:254][588]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.07.20-02.11.10:254][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.11:711][732]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.11.11:720][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.11:720][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.11:727][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.11:727][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.11:732][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.11.11:895][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.11:895][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.12:002][732]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.07.20-02.11.12:032][732]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.11.46:569][696]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2024.07.20-02.11.46:569][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.46:569][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.46:577][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.11.46:712][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.46:712][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.46:833][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.11.46:833][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.11.46:846][696]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2024.07.20-02.11.46:858][696]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.11.51:090][160]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.11.51:126][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.20-02.11.51:136][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.11.51:201][160]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.11.51:201][160]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation614EEAFE45FA6D4237919A9847D53887.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.11.51:212][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 3.90 sec)
+[2024.07.20-02.11.51:218][160]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.11.51:218][160]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.11.55:944][675]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.11.55:944][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.11.55:953][675]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.11.55:953][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.11.55:998][675]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.11.55:998][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.12.00:691][197]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.07.20-02.12.53:664][217]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.12.53:667][217]LogBlueprint: Error: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Enemy_AI  to imply a specific type.
+[2024.07.20-02.12.53:667][217]LogBlueprint: Error: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.07.20-02.12.53:692][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.20-02.13.18:819][ 77]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.13.18:821][ 77]LogBlueprint: Error: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Enemy_AI  to imply a specific type.
+[2024.07.20-02.13.18:821][ 77]LogBlueprint: Error: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.07.20-02.13.18:843][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.13.33:907][814]LogEditorTransaction: Undo Delete current selection
+[2024.07.20-02.13.34:014][814]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.13.34:142][815]LogEditorTransaction: Undo Delete current selection
+[2024.07.20-02.13.34:222][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.13.34:344][816]LogEditorTransaction: Undo Delete current selection
+[2024.07.20-02.13.34:424][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.13.34:544][817]LogEditorTransaction: Undo Move Node
+[2024.07.20-02.13.34:627][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.13.34:898][840]LogEditorTransaction: Undo Delete current selection
+[2024.07.20-02.13.34:981][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.13.40:125][392]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.13.40:153][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.13.40:162][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.13.40:231][392]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.13.40:231][392]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimationB90379B0499FF44BB0A44381783B884E.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.13.40:238][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.98 sec)
+[2024.07.20-02.13.40:239][392]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.13.40:239][392]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.13.49:705][443]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.13.49:732][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.20-02.13.49:741][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.13.49:817][443]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.13.49:818][443]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimationE5B091BC4F43E26C346BEE8A602DB4FB.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.13.49:825][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.06 sec)
+[2024.07.20-02.13.49:826][443]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.13.49:826][443]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.14.46:426][953]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.14.46:453][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.14.46:462][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.14.46:540][953]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.14.46:541][953]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimationFCFC4FC64D1A21FA5F5100B78CE64499.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.14.46:548][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.15 sec)
+[2024.07.20-02.14.46:550][953]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.14.46:550][953]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.14.52:528][622]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.07.20-02.15.04:640][954]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.15.04:667][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.20-02.15.04:679][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.15.04:754][954]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.15.04:755][954]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation1687C30D44F0E5935E629AB234C5ABC7.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.15.04:763][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.23 sec)
+[2024.07.20-02.15.04:769][954]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.15.04:769][954]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.15.08:051][276]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2024.07.20-02.15.08:051][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.15.08:051][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.15.08:059][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.15.08:196][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.15.08:196][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.15.08:321][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.15.08:321][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.15.08:333][276]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2024.07.20-02.15.08:349][276]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.15.11:779][630]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.15.11:780][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.15.11:790][630]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.15.11:790][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.15.11:837][630]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.15.11:837][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.16.15:298][734]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.16.15:329][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.07.20-02.16.15:339][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.16.15:387][734]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_120
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:401][734]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.16.15:401][734]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimationE4166C8A4F7DC830F7D42F8CB68F5AA6.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.16.15:408][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.30 sec)
+[2024.07.20-02.16.15:415][734]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.16.15:415][734]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.16.15:415][734]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_121
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:432][734]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:462][735]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_122
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:462][735]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:485][736]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:500][737]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:510][738]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:520][739]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:528][740]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:538][741]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:549][742]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:557][743]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:567][744]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:577][745]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:587][746]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:596][747]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:604][748]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.15:614][749]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.EnemyAnimation_C_0
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.19:528][159]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.16.19:555][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-02.16.19:570][159]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_123
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.19:631][161]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_124
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.20:021][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.16.20:072][202]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_125
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.20:085][202]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.16.20:086][202]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation7C3FEE634BFA8089882F788AB1F1D9B2.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.16.20:094][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.38 sec)
+[2024.07.20-02.16.20:095][202]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.16.20:095][202]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.16.20:135][204]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_126
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00B0
+[2024.07.20-02.16.51:764][658]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.16.51:792][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.07.20-02.16.51:804][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.16.51:856][658]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_137
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.16.51:870][658]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.16.51:871][658]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation22414D344B3B1AFB9E0F479998C3D1A3.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.16.51:877][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.45 sec)
+[2024.07.20-02.16.51:880][658]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.16.51:880][658]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.16.51:880][658]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_138
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.16.51:942][660]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_139
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.00:272][591]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.17.00:300][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.17.00:313][591]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_140
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.00:346][592]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_141
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.03:941][980]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.17.03:947][980]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.17.03:947][980]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.17.03:950][980]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 46 ms)
+[2024.07.20-02.17.03:950][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-02.17.03:950][980]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:17:03 pm)
+[2024.07.20-02.17.03:950][980]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.17.03:987][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035987s)
+[2024.07.20-02.17.03:987][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.036030s)
+[2024.07.20-02.17.03:998][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.07.20-02.17.04:001][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.17.04:002][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.17.04:002][980]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.17.04:002][980]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.17.04:002][980]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.17.04:002][980]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.17.04:002][980]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.17.04:010][980]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.17.04:010][980]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.35 sec)
+[2024.07.20-02.17.04:010][980]LogPlayLevel: PIE: World Init took: (0.008801s)
+[2024.07.20-02.17.04:010][980]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.17.04:010][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.17.04:010][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.17.04:011][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.17.04:011][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.17.04:011][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.17.04:013][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.17.04:029][980]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.17.04:029][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.17.04:029][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.17.04:029][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.17.04:030][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.07.20-02.17.04:030][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.07.20-02.17.04:031][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.07.20-02.17.04:031][980]LogInit: FAudioDevice initialized with ID 16.
+[2024.07.20-02.17.04:031][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.07.20-02.17.04:031][980]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.07.20-02.17.04:031][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.07.20-02.17.04:073][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.17.04:073][980]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.17.04:094][980]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.17.04
+[2024.07.20-02.17.04:171][980]LogWorld: Bringing up level for play took: 0.098855
+[2024.07.20-02.17.04:173][980]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.07.20-02.17.04:179][980]PIE: Server logged in
+[2024.07.20-02.17.04:180][980]PIE: Play in editor total start time 0.232 seconds.
+[2024.07.20-02.17.04:202][980]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.17.13:823][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.17.13:823][ 48]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.17.13:824][ 48]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.17.13:830][ 48]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.17.13:834][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.17.13:835][ 48]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.17.13:837][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.17.13:842][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.17.13:858][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-02.17.13:858][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.07.20-02.17.13:858][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.07.20-02.17.13:860][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.07.20-02.17.13:870][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.20-02.17.13:925][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.07.20-02.17.15:135][180]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_142
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:146][181]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_143
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:158][182]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_144
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:169][183]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_145
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:182][184]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_146
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:195][185]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_147
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:207][186]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_148
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:219][187]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_149
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:231][188]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_150
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:243][189]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_151
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:254][190]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_152
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:266][191]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_153
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:303][192]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_154
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:315][193]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_155
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:329][194]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_156
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:341][195]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_157
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:355][196]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_158
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:367][197]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_159
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:381][198]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_160
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:394][199]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_161
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:407][200]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_162
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:423][201]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_163
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:436][202]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_164
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:449][203]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_165
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:463][204]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_166
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:477][205]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_167
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:490][206]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_168
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:503][207]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_169
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:518][208]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_170
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:530][209]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_171
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:543][210]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_172
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:556][211]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_173
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:570][212]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_174
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:582][213]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_175
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:597][214]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_176
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:611][215]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_177
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:623][216]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_178
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:637][217]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_179
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.15:651][218]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_180
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:215][ 22]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_181
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:227][ 23]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_182
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:238][ 24]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_183
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:251][ 25]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_184
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:262][ 26]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_185
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:274][ 27]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_186
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:285][ 28]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_187
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:298][ 29]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_188
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:309][ 30]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_189
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:832][ 70]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_190
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.23:843][ 71]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_191
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.38:158][672]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.17.38:158][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.17.39:656][828]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_192
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:668][829]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_193
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:680][830]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_194
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:693][831]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_195
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:705][832]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_196
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:718][833]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_197
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:730][834]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_198
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:741][835]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_199
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:753][836]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_200
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:764][837]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_201
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:777][838]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_202
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:789][839]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_203
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:802][840]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_204
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:814][841]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_205
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:826][842]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_206
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:840][843]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_207
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:851][844]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_208
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:862][845]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_209
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:875][846]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_210
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.39:887][847]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_211
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:082][860]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_212
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:094][861]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_213
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:105][862]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_214
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:119][863]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_215
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:132][864]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_216
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:143][865]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_217
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:155][866]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_218
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:168][867]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_219
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:180][868]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_220
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:192][869]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_221
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:204][870]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_222
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:215][871]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_223
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:227][872]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_224
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:241][873]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_225
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:253][874]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_226
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:265][875]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_227
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:303][876]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_228
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:317][877]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_229
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:331][878]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_230
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:631][900]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_231
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:644][901]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_232
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:656][902]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_233
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:668][903]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_234
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.40:680][904]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_235
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:513][996]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_236
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:525][997]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_237
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:537][998]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_238
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:549][999]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_239
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:561][  0]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_240
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:574][  1]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_241
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:586][  2]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_242
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:598][  3]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_243
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:609][  4]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_244
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:653][  5]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_245
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:666][  6]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_246
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:680][  7]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_247
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:693][  8]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_248
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:706][  9]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_249
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:721][ 10]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_250
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:977][ 32]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_251
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.41:987][ 33]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_252
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:001][ 34]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_253
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:012][ 35]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_254
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:025][ 36]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_255
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:036][ 37]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_256
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:048][ 38]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_257
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:061][ 39]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_258
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:072][ 40]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_259
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:083][ 41]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_260
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:098][ 42]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_261
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:111][ 43]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_262
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:123][ 44]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_263
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:137][ 45]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_264
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:150][ 46]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_265
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:163][ 47]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_266
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:177][ 48]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_267
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:191][ 49]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_268
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:204][ 50]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_269
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:218][ 51]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_270
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:231][ 52]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_271
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:245][ 53]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_272
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:257][ 54]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_273
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:271][ 55]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_274
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:283][ 56]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_275
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:297][ 57]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_276
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.42:869][103]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_277
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:169][986]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_278
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:895][ 69]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_279
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:907][ 70]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_280
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:919][ 71]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_281
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:932][ 72]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_282
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:944][ 73]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_283
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:956][ 74]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_284
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:967][ 75]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_285
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:979][ 76]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_286
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.51:990][ 77]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_287
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:002][ 78]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_288
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:014][ 79]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_289
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:026][ 80]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_290
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:039][ 81]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_291
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:051][ 82]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_292
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:062][ 83]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_293
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:929][150]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_294
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:940][151]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_295
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:954][152]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_296
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.17.52:965][153]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_297
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.02:356][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.18.06:238][489]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AssetPacks/BattleWizardPolyart/Meshes/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2024.07.20-02.18.06:238][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.18.06:239][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.18.06:247][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.18.06:387][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.18.06:387][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.18.06:504][489]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2024.07.20-02.18.36:588][901]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.18.40:909][309]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.18.40:909][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.18.40:959][309]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.18.40:959][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.18.52:895][574]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_298
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:380][628]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_299
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:392][629]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_300
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:405][630]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_301
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:416][631]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_302
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:428][632]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_303
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.53:438][633]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_304
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:238][772]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_305
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:249][773]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_306
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:261][774]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_307
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:272][775]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_308
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:284][776]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_309
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:296][777]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_310
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:308][778]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_311
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:320][779]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_312
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:332][780]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_313
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:345][781]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_314
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:356][782]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_315
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:368][783]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_316
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:379][784]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_317
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:392][785]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_318
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:405][786]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_319
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:417][787]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_320
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:453][788]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_321
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:467][789]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_322
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:481][790]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_323
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:494][791]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_324
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:507][792]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_325
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:521][793]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_326
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:535][794]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_327
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:548][795]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_328
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:562][796]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_329
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:575][797]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_330
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:587][798]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_331
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:602][799]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_332
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:616][800]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_333
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:630][801]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_334
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:644][802]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_335
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:657][803]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_336
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:670][804]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_337
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:683][805]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_338
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:696][806]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_339
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:709][807]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_340
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:723][808]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_341
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:736][809]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_342
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.18.55:749][810]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_343
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.19.21:654][606]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.07.20-02.19.21:686][606]LogEditorClassViewer: Warning: Class /GuidedTutorials/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.20-02.19.28:448][340]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.19.28:453][340]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.19.28:453][340]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.19.28:457][340]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 49 ms)
+[2024.07.20-02.19.28:457][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-02.19.28:457][340]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:19:28 pm)
+[2024.07.20-02.19.28:457][340]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.19.28:493][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037235s)
+[2024.07.20-02.19.28:495][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.037274s)
+[2024.07.20-02.19.28:506][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.19.28:517][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.19.28:517][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.19.28:517][340]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.19.28:518][340]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.19.28:518][340]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.19.28:518][340]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.19.28:518][340]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.19.28:526][340]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.19.28:526][340]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.35 sec)
+[2024.07.20-02.19.28:526][340]LogPlayLevel: PIE: World Init took: (0.009073s)
+[2024.07.20-02.19.28:526][340]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.19.28:527][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.19.28:527][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.19.28:527][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.19.28:527][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.19.28:527][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.19.28:528][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.19.28:545][340]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.19.28:545][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.19.28:545][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.19.28:545][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.19.28:546][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.07.20-02.19.28:546][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.07.20-02.19.28:547][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.07.20-02.19.28:547][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.07.20-02.19.28:547][340]LogInit: FAudioDevice initialized with ID 17.
+[2024.07.20-02.19.28:547][340]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2024.07.20-02.19.28:547][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.07.20-02.19.28:588][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.19.28:588][340]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.19.28:609][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Node:  Result Graph:  Transition Function:  Execute Ubergraph Enemy Animation Blueprint:  EnemyAnimation
+[2024.07.20-02.19.28:609][340]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.19.28
+[2024.07.20-02.19.28:686][340]LogWorld: Bringing up level for play took: 0.096452
+[2024.07.20-02.19.28:688][340]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.07.20-02.19.28:693][340]PIE: Server logged in
+[2024.07.20-02.19.28:694][340]PIE: Play in editor total start time 0.24 seconds.
+[2024.07.20-02.19.28:731][340]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.19.51:677][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.19.51:677][914]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.19.51:677][914]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.19.51:682][914]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.19.51:687][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.19.51:687][914]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.19.51:690][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.19.51:694][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.19.51:709][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-02.19.51:710][914]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.07.20-02.19.51:710][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.07.20-02.19.51:711][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.07.20-02.19.51:723][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.20-02.19.51:896][915]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.07.20-02.19.57:704][463]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.19.57:711][463]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.20.17:600][646]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.20.17:607][646]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.20.33:151][580]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.20.33:159][580]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.20.33:159][580]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.20.33:161][580]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 52 ms)
+[2024.07.20-02.20.33:162][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-02.20.33:162][580]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:20:33 pm)
+[2024.07.20-02.20.33:162][580]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.20.33:198][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036366s)
+[2024.07.20-02.20.33:199][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.036414s)
+[2024.07.20-02.20.33:209][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.20.33:214][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.20.33:214][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.20.33:214][580]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.20.33:215][580]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.20.33:215][580]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.20.33:215][580]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.20.33:215][580]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.20.33:223][580]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.20.33:223][580]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.36 sec)
+[2024.07.20-02.20.33:223][580]LogPlayLevel: PIE: World Init took: (0.009101s)
+[2024.07.20-02.20.33:223][580]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.20.33:223][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.20.33:223][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.20.33:223][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.20.33:223][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.20.33:223][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.20.33:225][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.20.33:241][580]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.20.33:241][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.20.33:241][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.20.33:241][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.20.33:241][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.07.20-02.20.33:242][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.07.20-02.20.33:243][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.07.20-02.20.33:243][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.07.20-02.20.33:243][580]LogInit: FAudioDevice initialized with ID 18.
+[2024.07.20-02.20.33:243][580]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2024.07.20-02.20.33:243][580]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.07.20-02.20.33:288][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.20.33:288][580]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.20.33:307][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Node:  Result Graph:  Transition Function:  Execute Ubergraph Enemy Animation Blueprint:  EnemyAnimation
+[2024.07.20-02.20.33:307][580]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.20.33
+[2024.07.20-02.20.33:384][580]LogWorld: Bringing up level for play took: 0.095792
+[2024.07.20-02.20.33:386][580]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.07.20-02.20.33:391][580]PIE: Server logged in
+[2024.07.20-02.20.33:392][580]PIE: Play in editor total start time 0.233 seconds.
+[2024.07.20-02.20.33:410][580]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.20.44:398][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.20.44:398][545]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.20.44:398][545]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.20.44:405][545]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.20.44:408][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.20.44:409][545]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.20.44:411][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.20.44:415][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.20.44:430][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.07.20-02.20.44:431][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.07.20-02.20.44:432][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.07.20-02.20.44:444][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.07.20-02.20.44:587][546]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.07.20-02.20.45:855][647]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.20.45:862][647]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.21.33:427][ 18]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2024.07.20-02.21.33:427][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.21.33:427][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.21.33:436][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.20-02.21.33:574][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.21.33:574][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.21.33:700][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.21.33:700][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.21.33:714][ 18]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2024.07.20-02.21.33:726][ 18]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.20-02.21.52:225][928]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.21.52:253][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-02.21.52:269][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.21.52:326][928]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_346
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.21.52:340][928]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.21.52:341][928]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation3B176F3646F5CE60FA1C09BD24D614F4.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.21.52:348][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.53 sec)
+[2024.07.20-02.21.52:354][928]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.21.52:354][928]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.21.52:355][928]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_347
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.21.52:433][930]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_348
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.21.58:411][542]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.21.58:438][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-02.21.58:454][542]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_349
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.21.58:521][544]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_350
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.22.01:848][910]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2024.07.20-02.22.01:877][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.22.01:877][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.22.01:891][910]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.22.01:891][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.22.07:158][433]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.22.07:186][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.20-02.22.07:199][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.22.07:260][433]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_353
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.22.07:275][433]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.22.07:275][433]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation3B46C1FC4F4BD8D08A3FCB90568B4B4E.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.22.07:281][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.61 sec)
+[2024.07.20-02.22.07:288][433]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.22.07:288][433]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.22.07:288][433]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_354
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.22.07:366][435]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_355
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AE
+[2024.07.20-02.22.09:547][636]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.22.09:554][636]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.22.09:554][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.22.09:557][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 55 ms)
+[2024.07.20-02.22.09:557][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-02.22.09:557][636]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:22:09 pm)
+[2024.07.20-02.22.09:557][636]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.22.09:593][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036624s)
+[2024.07.20-02.22.09:593][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.036655s)
+[2024.07.20-02.22.09:603][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.20-02.22.09:608][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.22.09:608][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.22.09:608][636]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.22.09:609][636]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.22.09:609][636]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.22.09:609][636]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.22.09:609][636]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.22.09:617][636]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.22.09:617][636]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.37 sec)
+[2024.07.20-02.22.09:617][636]LogPlayLevel: PIE: World Init took: (0.008878s)
+[2024.07.20-02.22.09:617][636]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.22.09:617][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.22.09:617][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.22.09:617][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.22.09:617][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.22.09:617][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.22.09:619][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.22.09:635][636]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.22.09:635][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.22.09:635][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.22.09:635][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.22.09:635][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.07.20-02.22.09:635][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.07.20-02.22.09:637][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.07.20-02.22.09:637][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.07.20-02.22.09:637][636]LogInit: FAudioDevice initialized with ID 19.
+[2024.07.20-02.22.09:637][636]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap'.
+[2024.07.20-02.22.09:637][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.07.20-02.22.09:688][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.22.09:689][636]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.22.09:708][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Node:  Result Graph:  Transition Function:  Execute Ubergraph Enemy Animation Blueprint:  EnemyAnimation
+[2024.07.20-02.22.09:709][636]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.22.09
+[2024.07.20-02.22.09:785][636]LogWorld: Bringing up level for play took: 0.095559
+[2024.07.20-02.22.09:787][636]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.07.20-02.22.09:792][636]PIE: Server logged in
+[2024.07.20-02.22.09:794][636]PIE: Play in editor total start time 0.24 seconds.
+[2024.07.20-02.22.09:859][636]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.22.30:560][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.22.30:560][958]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.22.30:561][958]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.22.30:567][958]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.22.30:571][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.22.30:571][958]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.22.30:572][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.22.30:577][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.22.30:592][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-02.22.30:593][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.07.20-02.22.30:593][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.07.20-02.22.30:594][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.07.20-02.22.30:606][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.20-02.22.30:773][959]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.07.20-02.22.32:276][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.22.32:282][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.22.37:761][642]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.22.37:762][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.22.37:771][642]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.22.37:771][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.22.37:821][642]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.22.37:821][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.23.41:452][626]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.23.41:455][626]LogBlueprint: Warning: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] IDLE to RUN  will never be taken, please connect something to  Can Enter Transition
+[2024.07.20-02.23.41:482][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.20-02.24.08:721][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.20-02.24.08:727][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AF/IHOTY6B2DTO6RVIMVOO4ZC_Auto5
+[2024.07.20-02.24.08:727][174]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/IHOTY6B2DTO6RVIMVOO4ZC_Auto595B1CA964C78C6E99F098285584C20FC.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AF/IHOTY6B2DTO6RVIMVOO4ZC_Auto5.uasset'
+[2024.07.20-02.24.08:728][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.07.20-02.24.08:728][174]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.07.20-02.24.08:728][174]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/EnemySystem/EnemyAnimation] ([2] browsable assets)...
+[2024.07.20-02.24.08:792][174]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation]
+[2024.07.20-02.24.08:792][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemySystem/EnemyAnimation]
+[2024.07.20-02.24.08:800][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnemySystem/EnemyAnimation_Auto5
+[2024.07.20-02.24.08:800][174]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation_Auto51C2FC85B4BB0C688AACA92A1F9082940.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Autosaves/Game/EnemySystem/EnemyAnimation_Auto5.uasset'
+[2024.07.20-02.24.08:801][174]LogFileHelpers: Auto-saving content packages took 0.073
+[2024.07.20-02.24.57:000][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemySystem/BP_Enemy_AI.BP_Enemy_AI
+[2024.07.20-02.24.57:000][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.24.57:000][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.26.13:229][796]BlueprintLog: New page: Compile BP_Enemy_AI
+[2024.07.20-02.26.13:235][796]LogBlueprint: Warning: [AssetLog] C:\Users\karin\Documents\GitHub\RGP204-Assessment3\RGP203Assessment3\Content\EnemySystem\EnemyAnimation.uasset: [Compiler] IDLE to RUN  will never be taken, please connect something to  Can Enter Transition
+[2024.07.20-02.26.13:309][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.20-02.26.13:338][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.26.13:414][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemySystem/BP_Enemy_AI" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/BP_Enemy_AI.uasset" SILENT=true
+[2024.07.20-02.26.13:422][796]LogSavePackage: Moving output files for package: /Game/EnemySystem/BP_Enemy_AI
+[2024.07.20-02.26.13:422][796]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_Enemy_AI33741D7848E59FA9AC3F628078652573.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/BP_Enemy_AI.uasset'
+[2024.07.20-02.26.13:429][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 4.70 sec)
+[2024.07.20-02.26.13:450][796]AssetCheck: New page: Asset Save: BP_Enemy_AI
+[2024.07.20-02.26.13:450][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemySystem/BP_Enemy_AI.BP_Enemy_AI
+[2024.07.20-02.26.32:138][778]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.26.32:167][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.20-02.26.32:181][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.26.32:227][778]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_390
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.32:241][778]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.26.32:242][778]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation3192FEB64D2602827CABAAA12ED441D2.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.26.32:249][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.77 sec)
+[2024.07.20-02.26.32:250][778]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.26.32:250][778]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.26.32:251][778]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_391
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.32:303][780]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_392
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.32:408][791]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_393
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.47:995][439]BlueprintLog: New page: Compile EnemyAnimation
+[2024.07.20-02.26.48:024][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-02.26.48:036][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.26.48:095][439]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_401
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.48:108][439]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.26.48:108][439]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimation03EEF16C40673F47847911AB997610FC.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.26.48:116][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 4.85 sec)
+[2024.07.20-02.26.48:122][439]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.26.48:122][439]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.26.48:123][439]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_402
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.48:190][441]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_403
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.26.49:664][582]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-02.26.49:670][582]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-02.26.49:670][582]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-02.26.49:673][582]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 58 ms)
+[2024.07.20-02.26.49:673][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-02.26.49:673][582]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 10:26:49 pm)
+[2024.07.20-02.26.49:673][582]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.26.49:710][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037085s)
+[2024.07.20-02.26.49:710][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.037129s)
+[2024.07.20-02.26.49:721][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-02.26.49:725][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-02.26.49:725][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-02.26.49:725][582]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-02.26.49:726][582]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-02.26.49:726][582]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-02.26.49:726][582]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-02.26.49:726][582]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-02.26.49:734][582]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-02.26.49:734][582]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.38 sec)
+[2024.07.20-02.26.49:734][582]LogPlayLevel: PIE: World Init took: (0.009517s)
+[2024.07.20-02.26.49:734][582]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-02.26.49:734][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-02.26.49:734][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-02.26.49:735][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-02.26.49:735][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-02.26.49:735][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-02.26.49:737][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-02.26.49:754][582]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-02.26.49:754][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-02.26.49:754][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-02.26.49:754][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-02.26.49:754][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.07.20-02.26.49:754][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.07.20-02.26.49:756][582]LogInit: FAudioDevice initialized with ID 20.
+[2024.07.20-02.26.49:756][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.07.20-02.26.49:756][582]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonMap'.
+[2024.07.20-02.26.49:756][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.07.20-02.26.49:756][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.07.20-02.26.49:809][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.26.49:810][582]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-02.26.49:830][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Enemy". Node:  Result Graph:  Transition Function:  Execute Ubergraph Enemy Animation Blueprint:  EnemyAnimation
+[2024.07.20-02.26.49:830][582]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-12.26.49
+[2024.07.20-02.26.49:908][582]LogWorld: Bringing up level for play took: 0.098654
+[2024.07.20-02.26.49:909][582]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.07.20-02.26.49:916][582]PIE: Server logged in
+[2024.07.20-02.26.49:917][582]PIE: Play in editor total start time 0.247 seconds.
+[2024.07.20-02.26.49:984][582]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-02.27.17:226][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-02.27.17:226][627]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-02.27.17:228][627]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-02.27.17:234][627]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.27.17:238][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.27.17:239][627]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-02.27.17:255][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-02.27.17:259][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.27.17:275][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-02.27.17:275][627]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.07.20-02.27.17:275][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.07.20-02.27.17:276][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.07.20-02.27.17:288][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.07.20-02.27.17:460][628]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.07.20-02.27.19:170][775]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.27.19:176][775]LogSlate: Window 'Message Log' being destroyed
+[2024.07.20-02.27.25:707][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.27.25:775][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.20-02.27.25:787][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.20-02.27.25:798][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.20-02.27.25:802][386]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AF/IHOTY6B2DTO6RVIMVOO4ZC
+[2024.07.20-02.27.25:802][386]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/IHOTY6B2DTO6RVIMVOO4ZC79E83FF84B652494F4994C8C190AEDC6.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AF/IHOTY6B2DTO6RVIMVOO4ZC.uasset'
+[2024.07.20-02.27.25:813][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.96 sec)
+[2024.07.20-02.27.25:814][386]AssetCheck: New page: Asset Save: BP_Enemy_AI_C_UAID_88A4C25E52D6A50902_1455940040
+[2024.07.20-02.27.25:814][386]LogContentValidation: Display: Validating /Game/EnemySystem/BP_Enemy_AI.BP_Enemy_AI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_AI_C_UAID_88A4C25E52D6A50902_1455940040
+[2024.07.20-02.27.28:333][581]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-02.27.28:451][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.20-02.27.28:488][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.27.28:628][581]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-02.27.28:629][581]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter36488F52465707F0E35597B1F705CAB5.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-02.27.28:638][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 5.11 sec)
+[2024.07.20-02.27.28:640][581]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-02.27.28:640][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-02.27.31:068][808]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-02.27.31:068][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-02.27.39:772][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-02.27.39:820][807]LogSavePackage: Moving output files for package: /Game/EnemySystem/EnemyAnimation
+[2024.07.20-02.27.39:821][807]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/EnemyAnimationFE187A1A41673F70F0CF0D90F3FEA12F.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/EnemySystem/EnemyAnimation.uasset'
+[2024.07.20-02.27.39:828][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 5.17 sec)
+[2024.07.20-02.27.39:829][807]AssetCheck: New page: Asset Save: EnemyAnimation
+[2024.07.20-02.27.39:829][807]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/EnemySystem/EnemyAnimation.EnemyAnimation
+[2024.07.20-02.27.39:849][809]LogScript: Warning: Accessed None trying to read property Enemy
+	EnemyAnimation_C /Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.EnemyAnimation_C_404
+	Function /Game/EnemySystem/EnemyAnimation.EnemyAnimation_C:ExecuteUbergraph_EnemyAnimation:00AD
+[2024.07.20-02.27.41:079][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
