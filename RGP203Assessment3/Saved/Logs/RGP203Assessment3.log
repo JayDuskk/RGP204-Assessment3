@@ -2552,3 +2552,775 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.20-01.22.43:648][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2024.07.20-01.22.43:655][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.33 sec)
 [2024.07.20-01.22.45:261][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.07.20-01.23.51:217][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.SKEL_Lvl2Enter_Blueprint_C' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint_C' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.SKEL_Lvl2Enter_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.SKEL_Lvl2Enter_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.SKEL_Lvl2Enter_Blueprint_C:BndEvt__Lvl2Enter_Blueprint_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:219][235]LogMetaData: Removing '/Game/Portal/Lvl2Enter_Blueprint.SKEL_Lvl2Enter_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Lvl2Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.SKEL_Lvl2Exit_Blueprint_C' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint_C' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.SKEL_Lvl2Exit_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:225][235]LogMetaData: Removing '/Game/Portal/Lvl2Exit_Blueprint.SKEL_Lvl2Exit_Blueprint_C:BndEvt__Lvl2Exit_Blueprint_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Lvl2Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.SKEL_Lvl3Enter_Blueprint_C' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint_C' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.SKEL_Lvl3Enter_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.SKEL_Lvl3Enter_Blueprint_C:BndEvt__Lvl3Enter_Blueprint_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.SKEL_Lvl3Enter_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:231][235]LogMetaData: Removing '/Game/Portal/Lvl3Enter_Blueprint.SKEL_Lvl3Enter_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Lvl3Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.SKEL_Lvl1Enter_Blueprint_C' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint_C' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.SKEL_Lvl1Enter_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.SKEL_Lvl1Enter_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.SKEL_Lvl1Enter_Blueprint_C:BndEvt__Lvl1Enter_Blueprint_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:236][235]LogMetaData: Removing '/Game/Portal/Lvl1Enter_Blueprint.SKEL_Lvl1Enter_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Lvl1Enter_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.SKEL_Lvl1Exit_Blueprint_C' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint_C' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.SKEL_Lvl1Exit_Blueprint_C:BndEvt__Lvl1Exit_Blueprint_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:241][235]LogMetaData: Removing '/Game/Portal/Lvl1Exit_Blueprint.SKEL_Lvl1Exit_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Lvl1Exit_Blueprint.PackageMetaData'
+[2024.07.20-01.23.51:246][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.23.51:294][235]LogSavePackage: Moving output files for package: /Game/Portal/Lvl2Enter_Blueprint
+[2024.07.20-01.23.51:294][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl2Enter_Blueprint1DC6709C44507CE4588128944CEB1CA4.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Portal/Lvl2Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:298][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl2Enter_Blueprint" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl2Enter_Blueprint.uasset" SILENT=true
+[2024.07.20-01.23.51:299][235]LogSavePackage: Moving output files for package: /Game/Lvl2Enter_Blueprint
+[2024.07.20-01.23.51:299][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl2Enter_Blueprint030A9A574C11528CBD63FF8B1A78B138.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl2Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:303][235]LogSavePackage: Moving output files for package: /Game/Portal/Lvl2Exit_Blueprint
+[2024.07.20-01.23.51:303][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl2Exit_Blueprint9D54C50A40F34332364350923438E979.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Portal/Lvl2Exit_Blueprint.uasset'
+[2024.07.20-01.23.51:307][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl2Exit_Blueprint" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl2Exit_Blueprint.uasset" SILENT=true
+[2024.07.20-01.23.51:308][235]LogSavePackage: Moving output files for package: /Game/Lvl2Exit_Blueprint
+[2024.07.20-01.23.51:308][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl2Exit_BlueprintF8F50E3D4DDAC40D4FFAA7BFFF60DD71.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl2Exit_Blueprint.uasset'
+[2024.07.20-01.23.51:312][235]LogSavePackage: Moving output files for package: /Game/Portal/Lvl3Enter_Blueprint
+[2024.07.20-01.23.51:312][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl3Enter_BlueprintC97D7BF3464AC27F1B8C9DA4E0C3779A.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Portal/Lvl3Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:315][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl3Enter_Blueprint" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl3Enter_Blueprint.uasset" SILENT=true
+[2024.07.20-01.23.51:316][235]LogSavePackage: Moving output files for package: /Game/Lvl3Enter_Blueprint
+[2024.07.20-01.23.51:316][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl3Enter_BlueprintD3B3B317426F99172833A491A7734999.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl3Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:321][235]LogSavePackage: Moving output files for package: /Game/Portal/Lvl1Enter_Blueprint
+[2024.07.20-01.23.51:321][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl1Enter_BlueprintA4795CC144601D77C246F299B585683E.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Portal/Lvl1Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:325][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl1Enter_Blueprint" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl1Enter_Blueprint.uasset" SILENT=true
+[2024.07.20-01.23.51:325][235]LogSavePackage: Moving output files for package: /Game/Lvl1Enter_Blueprint
+[2024.07.20-01.23.51:326][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl1Enter_Blueprint2CE8A3784E874D9DF2FBB1A5532E3AA8.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl1Enter_Blueprint.uasset'
+[2024.07.20-01.23.51:329][235]LogSavePackage: Moving output files for package: /Game/Portal/Lvl1Exit_Blueprint
+[2024.07.20-01.23.51:329][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl1Exit_BlueprintB21EF3FE4031029EC10BD4BAE95560EF.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Portal/Lvl1Exit_Blueprint.uasset'
+[2024.07.20-01.23.51:332][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lvl1Exit_Blueprint" FILE="../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl1Exit_Blueprint.uasset" SILENT=true
+[2024.07.20-01.23.51:333][235]LogSavePackage: Moving output files for package: /Game/Lvl1Exit_Blueprint
+[2024.07.20-01.23.51:333][235]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Lvl1Exit_Blueprint7FC75EA845220612CE0F13AD2007558B.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/Lvl1Exit_Blueprint.uasset'
+[2024.07.20-01.23.51:342][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.42 sec)
+[2024.07.20-01.23.51:355][235]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Portal/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Enter_Blueprint.Lvl2Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Enter_Blueprint.Default__Lvl2Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Portal/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Exit_Blueprint.Lvl2Exit_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl2Exit_Blueprint.Default__Lvl2Exit_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Portal/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl3Enter_Blueprint.Lvl3Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl3Enter_Blueprint.Default__Lvl3Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Portal/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Enter_Blueprint.Lvl1Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Enter_Blueprint.Default__Lvl1Enter_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Portal/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Exit_Blueprint.Lvl1Exit_Blueprint_C
+[2024.07.20-01.23.51:355][235]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Lvl1Exit_Blueprint.Default__Lvl1Exit_Blueprint_C
+[2024.07.20-01.23.56:132][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.23.59:343][109]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.23.59:343][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.23.59:344][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.24.35:773][175]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.07.20-01.24.36:653][261]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.20-01.24.36:676][261]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.20-01.24.36:686][262]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.20-01.24.39:136][550]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.07.20-01.24.39:136][550]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.20-01.24.47:278][439]LogEditorClassViewer: Warning: Class /GuidedTutorials/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.20-01.25.17:407][439]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.07.20-01.25.17:415][439]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.20-01.25.17:422][439]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.20-01.25.17:450][441]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.07.20-01.25.22:528][ 18]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Health
+[2024.07.20-01.25.22:540][ 18]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.20-01.25.24:498][233]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.25.24:498][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.25.24:498][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.25.24:504][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.25.24:504][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.25.24:511][233]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.07.20-01.25.24:658][233]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.07.20-01.25.24:662][233]LogSlate: Took 0.003870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.20-01.27.01:648][202]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.20-01.27.28:123][111]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.20-01.27.30:662][393]LogEditorTransaction: Undo Edit Specified Color
+[2024.07.20-01.27.45:419][945]BlueprintLog: New page: Compile Health
+[2024.07.20-01.27.45:454][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.20-01.27.45:547][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.27.45:607][945]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.27.45:607][945]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/HealthC11FA9384E89DE10D53F9CBD907A2B18.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.27.45:619][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.49 sec)
+[2024.07.20-01.27.45:629][945]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.27.45:629][945]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.28.18:922][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.28.18:990][622]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.28.18:990][622]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health0F7142A0428807D444A498AFF5E23EB0.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.28.18:999][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.57 sec)
+[2024.07.20-01.28.19:000][622]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.28.19:000][622]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.30.32:698][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.07.20-01.30.32:703][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.07.20-01.30.32:704][133]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/UI/Health] ([2] browsable assets)...
+[2024.07.20-01.30.32:707][133]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health]
+[2024.07.20-01.30.32:707][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/UI/Health]
+[2024.07.20-01.30.32:709][133]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/UI/Health_Auto2
+[2024.07.20-01.30.32:709][133]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health_Auto2B42E29F84F8E33372726808BEA211503.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Autosaves/Game/FirstPerson/Blueprints/UI/Health_Auto2.uasset'
+[2024.07.20-01.30.32:709][133]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.07.20-01.31.09:273][ 46]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/UMG/Public/Components/CanvasPanel.h 
+[2024.07.20-01.31.09:370][ 46]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/UMG/Public/Components/CanvasPanel.h : 42
+[2024.07.20-01.31.09:370][ 46]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:379][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:380][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:381][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:382][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:388][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:402][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:405][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:418][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:419][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:420][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:423][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:437][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:463][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:474][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:475][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:476][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:476][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:476][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:476][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:476][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:477][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:478][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:484][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:498][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:501][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:515][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:516][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:517][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:519][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:534][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.31.09:561][ 46]LogVSAccessor: Warning: Couldn't access module table
+[2024.07.20-01.40.33:032][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.07.20-01.40.33:035][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2024.07.20-01.40.33:035][181]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/UI/Health] ([2] browsable assets)...
+[2024.07.20-01.40.33:039][181]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health]
+[2024.07.20-01.40.33:039][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/UI/Health]
+[2024.07.20-01.40.33:042][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/UI/Health_Auto3
+[2024.07.20-01.40.33:042][181]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health_Auto334D10C5440E455C9C7094ABE5BEC5A82.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Autosaves/Game/FirstPerson/Blueprints/UI/Health_Auto3.uasset'
+[2024.07.20-01.40.33:042][181]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.07.20-01.47.54:302][380]BlueprintLog: New page: Compile Health
+[2024.07.20-01.47.54:327][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-01.47.54:417][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.47.54:474][380]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.47.54:474][380]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health4DDC6FC74AFB8328B944A9A6E47F4C53.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.47.54:482][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.64 sec)
+[2024.07.20-01.47.54:497][380]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.47.54:497][380]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.48.22:016][654]BlueprintLog: New page: Compile Health
+[2024.07.20-01.48.22:039][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.20-01.48.53:452][126]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-01.48.53:538][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.20-01.48.53:563][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.48.53:670][126]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-01.48.53:670][126]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter3E04094F40481665FA61169BA71A08A4.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-01.48.53:677][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.75 sec)
+[2024.07.20-01.48.53:679][126]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-01.48.53:679][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.49.18:371][ 78]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-01.49.18:456][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.20-01.49.18:480][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.49.18:621][ 78]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-01.49.18:621][ 78]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacter278483324CDB2849119E37BFD1855F10.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-01.49.18:630][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 1.90 sec)
+[2024.07.20-01.49.18:631][ 78]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-01.49.18:632][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.51.04:323][ 64]BlueprintLog: New page: Compile Health
+[2024.07.20-01.51.04:340][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.20-01.51.04:348][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.51.04:417][ 64]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.51.04:418][ 64]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/HealthA96F5A4A4C53F602A256328036559463.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.51.04:425][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.98 sec)
+[2024.07.20-01.51.04:427][ 64]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.51.04:427][ 64]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.51.04:850][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.51.04:912][111]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.51.04:913][111]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health9E58EA07457175D928101BB4EE92E054.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.51.04:920][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.05 sec)
+[2024.07.20-01.51.04:921][111]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.51.04:921][111]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.51.27:017][360]BlueprintLog: New page: Compile Health
+[2024.07.20-01.51.27:036][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-01.51.27:046][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.51.27:115][360]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.51.27:117][360]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health1172146A443A574B82FA3DB9ACEB5325.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.51.27:124][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.13 sec)
+[2024.07.20-01.51.27:130][360]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.51.27:130][360]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.51.50:683][434]BlueprintLog: New page: Compile Health
+[2024.07.20-01.51.50:701][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.20-01.51.50:711][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.51.50:751][434]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.51.50:751][434]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health39354ED84A9D2C37C14A9ABEC8C5BB7A.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.51.50:757][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.17 sec)
+[2024.07.20-01.51.50:758][434]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.51.50:758][434]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.51.54:464][486]BlueprintLog: New page: Compile Health
+[2024.07.20-01.51.54:482][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.20-01.51.55:076][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.51.55:133][551]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.51.55:134][551]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health082703404ACACD6614DE4ABE76EE52E4.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.51.55:141][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.24 sec)
+[2024.07.20-01.51.55:142][551]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.51.55:142][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.52.08:118][976]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.52.08:118][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.09:384][114]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.52.09:384][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.09:389][114]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.52.09:389][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.09:834][163]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-01.52.09:840][163]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-01.52.09:840][163]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-01.52.09:843][163]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 34 ms)
+[2024.07.20-01.52.09:843][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-01.52.09:843][163]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 9:52:09 pm)
+[2024.07.20-01.52.09:868][163]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.52.09:905][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036010s)
+[2024.07.20-01.52.09:905][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.036044s)
+[2024.07.20-01.52.09:916][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.07.20-01.52.09:927][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.52.09:927][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.52.09:928][163]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-01.52.09:928][163]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-01.52.09:928][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-01.52.09:928][163]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-01.52.09:928][163]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-01.52.09:936][163]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-01.52.09:936][163]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.31 sec)
+[2024.07.20-01.52.09:936][163]LogPlayLevel: PIE: World Init took: (0.008919s)
+[2024.07.20-01.52.09:936][163]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-01.52.09:936][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-01.52.09:936][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-01.52.09:936][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-01.52.09:936][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-01.52.09:936][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-01.52.09:938][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-01.52.09:954][163]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-01.52.09:954][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-01.52.09:954][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-01.52.09:955][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-01.52.09:955][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.07.20-01.52.09:955][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.07.20-01.52.09:957][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.07.20-01.52.09:957][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.07.20-01.52.09:957][163]LogInit: FAudioDevice initialized with ID 12.
+[2024.07.20-01.52.09:957][163]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.07.20-01.52.09:957][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.20-01.52.10:006][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.52.10:006][163]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-01.52.10:027][163]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-11.52.10
+[2024.07.20-01.52.10:103][163]LogWorld: Bringing up level for play took: 0.096816
+[2024.07.20-01.52.10:105][163]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.07.20-01.52.10:109][163]PIE: Server logged in
+[2024.07.20-01.52.10:110][163]PIE: Play in editor total start time 0.271 seconds.
+[2024.07.20-01.52.10:138][163]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-01.52.12:729][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.52.12:729][254]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.52.12:729][254]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-01.52.12:737][254]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.52.12:742][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.12:742][254]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-01.52.12:743][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-01.52.12:748][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.12:758][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-01.52.12:758][254]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.20-01.52.12:758][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.20-01.52.12:759][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.20-01.52.12:773][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.20-01.52.13:037][255]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.07.20-01.52.15:371][262]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-01.52.15:378][262]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-01.52.15:378][262]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-01.52.15:381][262]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 37 ms)
+[2024.07.20-01.52.15:381][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-01.52.15:381][262]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 9:52:15 pm)
+[2024.07.20-01.52.15:381][262]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.52.15:421][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039958s)
+[2024.07.20-01.52.15:421][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.039985s)
+[2024.07.20-01.52.15:432][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.20-01.52.15:434][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.52.15:435][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.52.15:435][262]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-01.52.15:435][262]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-01.52.15:435][262]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-01.52.15:435][262]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-01.52.15:435][262]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-01.52.15:444][262]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-01.52.15:444][262]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.32 sec)
+[2024.07.20-01.52.15:444][262]LogPlayLevel: PIE: World Init took: (0.009456s)
+[2024.07.20-01.52.15:444][262]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-01.52.15:444][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-01.52.15:444][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-01.52.15:444][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-01.52.15:444][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-01.52.15:444][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-01.52.15:447][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-01.52.15:463][262]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-01.52.15:463][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-01.52.15:463][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-01.52.15:463][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-01.52.15:463][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.20-01.52.15:463][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.20-01.52.15:465][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.20-01.52.15:465][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.20-01.52.15:465][262]LogInit: FAudioDevice initialized with ID 13.
+[2024.07.20-01.52.15:465][262]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.07.20-01.52.15:465][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.20-01.52.15:521][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.52.15:521][262]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-01.52.15:543][262]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-11.52.15
+[2024.07.20-01.52.15:626][262]LogWorld: Bringing up level for play took: 0.103613
+[2024.07.20-01.52.15:628][262]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.07.20-01.52.15:632][262]PIE: Server logged in
+[2024.07.20-01.52.15:633][262]PIE: Play in editor total start time 0.256 seconds.
+[2024.07.20-01.52.15:662][262]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-01.52.30:119][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.52.30:119][891]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.52.30:120][891]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-01.52.30:125][891]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.52.30:131][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.30:131][891]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-01.52.30:134][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-01.52.30:137][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.52.30:149][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.20-01.52.30:149][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.20-01.52.30:151][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.20-01.52.30:162][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.20-01.52.30:217][892]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.07.20-01.52.37:179][ 98]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.07.20-01.52.37:179][ 98]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.07.20-01.53.09:623][212]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.53.09:623][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.53.09:623][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.53.09:634][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.53.09:634][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.53.45:207][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.53.45:207][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.53.45:207][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.54.07:077][834]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-01.54.07:165][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.20-01.54.07:194][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.54.07:337][834]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-01.54.07:337][834]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterBC943AB140DD3E8B2937ECA98AFA9C26.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-01.54.07:344][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.39 sec)
+[2024.07.20-01.54.07:345][834]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-01.54.07:345][834]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.54.12:836][463]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-01.54.12:923][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.20-01.54.12:949][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.54.13:089][463]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-01.54.13:089][463]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterFAF678904F587A1C16DDACA59A6FB922.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-01.54.13:097][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.54 sec)
+[2024.07.20-01.54.13:099][463]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-01.54.13:099][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.54.18:918][133]BlueprintLog: New page: Compile Health
+[2024.07.20-01.54.18:935][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.20-01.54.18:944][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.54.19:000][133]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.54.19:001][133]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health01CB7EB243769BA577D83AB07351066C.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.54.19:007][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.60 sec)
+[2024.07.20-01.54.19:014][133]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.54.19:014][133]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.54.20:663][328]LogDerivedDataCache: C:/Users/karin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14087 files in 15224 folders with total size 540 MiB.
+[2024.07.20-01.54.30:101][404]BlueprintLog: New page: Compile Health
+[2024.07.20-01.54.30:118][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.20-01.54.30:126][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.54.30:174][404]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.54.30:174][404]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/HealthBA6B7CFB497A6364CEF25CA2B6B0295E.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.54.30:181][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.65 sec)
+[2024.07.20-01.54.30:187][404]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.54.30:187][404]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.54.37:604][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.54.37:663][507]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/UI/Health
+[2024.07.20-01.54.37:664][507]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/Health5FE68FAF48FC3BD72BA00ABEA9D67EB7.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/UI/Health.uasset'
+[2024.07.20-01.54.37:671][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.72 sec)
+[2024.07.20-01.54.37:673][507]AssetCheck: New page: Asset Save: Health
+[2024.07.20-01.54.37:673][507]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/UI/Health.Health
+[2024.07.20-01.56.08:994][405]LogEditorClassViewer: Warning: Class /GuidedTutorials/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.20-01.56.26:911][906]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.20-01.56.27:001][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.07.20-01.56.27:026][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.56.27:126][906]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.20-01.56.27:127][906]LogSavePackage: Moving '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Saved/BP_FirstPersonCharacterD7B2E8E5467A97E27D7730B36D43B442.tmp' to '../../../../../../Users/karin/Documents/GitHub/RGP204-Assessment3/RGP203Assessment3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.20-01.56.27:133][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.83 sec)
+[2024.07.20-01.56.27:136][906]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.20-01.56.27:136][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.20-01.56.30:292][100]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.20-01.56.30:299][100]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.20-01.56.30:299][100]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.20-01.56.30:302][100]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 40 ms)
+[2024.07.20-01.56.30:302][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.20-01.56.30:302][100]PIE: New page: PIE session: FirstPersonMap (20 Jul 2024, 9:56:30 pm)
+[2024.07.20-01.56.30:302][100]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.56.30:339][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037394s)
+[2024.07.20-01.56.30:339][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.037419s)
+[2024.07.20-01.56.30:353][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.20-01.56.30:356][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.20-01.56.30:356][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.20-01.56.30:356][100]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.20-01.56.30:357][100]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.20-01.56.30:357][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.20-01.56.30:357][100]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.20-01.56.30:357][100]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.20-01.56.30:365][100]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.20-01.56.30:365][100]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 1.33 sec)
+[2024.07.20-01.56.30:365][100]LogPlayLevel: PIE: World Init took: (0.008931s)
+[2024.07.20-01.56.30:365][100]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.20-01.56.30:365][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.20-01.56.30:365][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.20-01.56.30:365][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.20-01.56.30:365][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.20-01.56.30:365][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.20-01.56.30:366][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.20-01.56.30:382][100]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.07.20-01.56.30:382][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.20-01.56.30:382][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.20-01.56.30:382][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.20-01.56.30:382][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.07.20-01.56.30:382][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.07.20-01.56.30:385][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.07.20-01.56.30:385][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.07.20-01.56.30:385][100]LogInit: FAudioDevice initialized with ID 14.
+[2024.07.20-01.56.30:385][100]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.07.20-01.56.30:385][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.20-01.56.30:442][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.56.30:442][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.20-01.56.30:463][100]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.07.20-11.56.30
+[2024.07.20-01.56.30:540][100]LogWorld: Bringing up level for play took: 0.097415
+[2024.07.20-01.56.30:542][100]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.07.20-01.56.30:546][100]PIE: Server logged in
+[2024.07.20-01.56.30:547][100]PIE: Play in editor total start time 0.248 seconds.
+[2024.07.20-01.56.30:573][100]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.20-01.56.36:405][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.20-01.56.36:405][740]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.20-01.56.36:405][740]LogSlate: Window 'RGP203Assessment3 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.20-01.56.36:411][740]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.20-01.56.36:416][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.56.36:416][740]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.20-01.56.36:418][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.20-01.56.36:421][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.20-01.56.36:432][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.20-01.56.36:434][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.20-01.56.36:434][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.20-01.56.36:435][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.20-01.56.36:448][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.20-01.56.36:501][741]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.07.20-01.56.38:154][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.20-01.56.38:222][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.20-01.56.38:234][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.20-01.56.38:244][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.20-01.56.38:252][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.93 sec)
