@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\development\\games\\rgp204-assessment3\\rgp203assessment3\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rgp203assessment3\\module.rgp203assessment3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\development\\games\\rgp204-assessment3\\rgp203assessment3\\intermediate\\build\\win64\\x64\\rgp203assessment3\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\development\\games\\rgp204-assessment3\\rgp203assessment3\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rgp203assessment3\\definitions.rgp203assessment3.h",
+            "c:\\development\\games\\rgp204-assessment3\\rgp203assessment3\\intermediate\\source\\rgp203assessment3.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
